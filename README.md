@@ -1,4 +1,4 @@
-# Research Chatbot (AWS, Llama-2
+# Research Chatbot (AWS, Llama-2)
 ![316280205-)923bd920-c2e5-4503-b0e6-e5f7df111f76](https://github.com/user-attachments/assets/d9c5e3bd-bd61-45df-9da1-5fb912ecbf52)
 
 ## Introduction
